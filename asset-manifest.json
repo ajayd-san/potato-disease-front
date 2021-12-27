@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/potato-disease-front/static/css/main.073c9b0a.css",
-    "main.js": "/potato-disease-front/static/js/main.6b0f4a5f.js",
+    "main.js": "/potato-disease-front/static/js/main.740ad83f.js",
     "static/js/787.54f80f6f.chunk.js": "/potato-disease-front/static/js/787.54f80f6f.chunk.js",
     "index.html": "/potato-disease-front/index.html",
     "main.073c9b0a.css.map": "/potato-disease-front/static/css/main.073c9b0a.css.map",
-    "main.6b0f4a5f.js.map": "/potato-disease-front/static/js/main.6b0f4a5f.js.map",
+    "main.740ad83f.js.map": "/potato-disease-front/static/js/main.740ad83f.js.map",
     "787.54f80f6f.chunk.js.map": "/potato-disease-front/static/js/787.54f80f6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6b0f4a5f.js"
+    "static/js/main.740ad83f.js"
   ]
 }
