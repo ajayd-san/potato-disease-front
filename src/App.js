@@ -13,6 +13,7 @@ function App() {
   const [confidence, setConfidence] = useState(null);
   const [resultStatus, setResultStatus] = useState(false);
   const [errorOccured, setErrorOccured] = useState(false);
+
   const sendFile = async () => {
     if (!image) {
       alert("Please select an image!!");
